@@ -1,0 +1,4 @@
+../Core/Src/main.c:60:5:__io_putchar	16	static
+../Core/Src/main.c:76:5:main	48	static
+../Core/Src/main.c:152:6:SystemClock_Config	96	static
+../Core/Src/main.c:206:6:Error_Handler	4	static,ignoring_inline_asm
